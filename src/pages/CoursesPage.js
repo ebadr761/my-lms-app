@@ -21,8 +21,7 @@ function CourseItem({ course, onEnroll }) {
       />
       <h3 className="course-title">{course.name}</h3>
       <p className="course-instructor">Instructor: {course.instructor}</p>
-      <p className="course-credit-hours">Credit Hours: {course.creditHours}</p>
-      
+
       {showDescription && (
         <div className="course-description">
           <p>{course.description}</p>
@@ -57,7 +56,7 @@ function EnrollmentList({ enrollments, onDrop }) {
             const course = courses.find(c => c.id === parseInt(courseId));
             return (
               <li key={courseId} className="enrollment-item">
-                <span>{course.name} ({course.creditHours} hrs)</span>
+                <span>{course.name} ({course.creditHours} hrs) </span>
                 <button 
                   className="drop-button"
                   onClick={() => onDrop(courseId)}
