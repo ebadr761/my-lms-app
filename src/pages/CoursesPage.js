@@ -28,10 +28,7 @@ function CourseItem({ course, onEnroll }) {
         </div>
       )}
       
-      <button 
-        onClick={() => onEnroll(course)}
-        className="enroll-button"
-      >
+      <button className="enroll-button" onClick={() => onEnroll(course)}>
         Enroll Now
       </button>
     </div>
