@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# This is our Assignment 4 project (A front-end React App)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
