@@ -1,4 +1,4 @@
-# This is a Learning Management System project (A front-end React App)
+# This is a Learning Management System project (Full Stack App)
 
 Created in React, and served as a key project for helping me learn how to code with JavaScript (HTML + CSS) with React as the frontend obviously and Flask as a backend connection (Python). 
 
