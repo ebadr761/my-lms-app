@@ -1,5 +1,8 @@
-# This is our Assignment 4 project (A front-end React App)
+# This is a Learning Management System project (A front-end React App)
 
+Created in React, and served as a key project for helping me learn how to code with JavaScript (HTML + CSS) with React as the frontend obviously and Flask as a backend connection (Python). 
+
+If you don't feel like cloning this in your own IDE, you can watch this video where I go through the project very briefly on YouTube: [youtube.ca/](https://www.youtube.com/watch?v=T2yQbxlWsuc)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
